@@ -12,9 +12,6 @@ This project provides code for controlling the Thorlabs KST201 motor controller 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/kst201-motor-jogging.git
-   cd kst201-motor-jogging
 2. Connect your motor controller to your computer.
 
 3. Open the code and set your jog parameters (distance, speed, etc.).
