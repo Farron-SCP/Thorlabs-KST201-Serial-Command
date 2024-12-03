@@ -10,7 +10,7 @@ This project provides code for controlling the Thorlabs KST201 motor controller 
 
 ## How to Use
 
-1. Clone the repository:
+1. Clone the repository.
 
 2. Connect your motor controller to your computer.
 
